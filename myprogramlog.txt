@@ -1,0 +1,83 @@
+ 2021-04-24 23:05:55,025 - DEBUG - start of program
+ 2021-04-24 23:05:55,026 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:05:55,026 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:05:55,026 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:05:55,026 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:05:55,026 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:05:55,026 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:05:55,026 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:05:55,026 - DEBUG - End of program
+ 2021-04-24 23:08:09,735 - DEBUG - start of program
+ 2021-04-24 23:08:09,736 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:08:09,736 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:08:09,736 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:08:09,737 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:08:09,737 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:08:09,737 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:08:09,737 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:08:09,738 - DEBUG - End of program
+ 2021-04-24 23:11:14,305 - DEBUG - start of program
+ 2021-04-24 23:11:14,305 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:11:14,305 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:11:14,305 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:11:14,305 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:11:14,305 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:11:14,305 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:11:14,305 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:11:14,305 - DEBUG - End of program
+ 2021-04-24 23:11:28,001 - DEBUG - start of program
+ 2021-04-24 23:11:28,001 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:11:28,002 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:11:28,002 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:11:28,002 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:11:28,002 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:11:28,002 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:11:28,002 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:11:28,002 - DEBUG - End of program
+ 2021-04-24 23:12:01,854 - DEBUG - start of program
+ 2021-04-24 23:12:01,854 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:12:01,854 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:12:01,855 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:12:01,855 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:12:01,855 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:12:01,855 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:12:01,855 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:12:01,855 - DEBUG - End of program
+ 2021-04-24 23:12:08,209 - DEBUG - start of program
+ 2021-04-24 23:12:08,210 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:12:08,210 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:12:08,210 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:12:08,210 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:12:08,210 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:12:08,210 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:12:08,211 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:12:08,211 - DEBUG - End of program
+ 2021-04-24 23:13:50,203 - DEBUG - start of program
+ 2021-04-24 23:13:50,203 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:13:50,204 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:13:50,204 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:13:50,204 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:13:50,204 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:13:50,204 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:13:50,204 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:13:50,204 - DEBUG - End of program
+ 2021-04-24 23:14:12,497 - DEBUG - start of program
+ 2021-04-24 23:14:12,497 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:14:12,497 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:14:12,498 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:14:12,498 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:14:12,498 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:14:12,498 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:14:12,498 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:14:12,498 - DEBUG - End of program
+ 2021-04-24 23:17:12,652 - DEBUG - start of program
+ 2021-04-24 23:17:12,652 - DEBUG - Start of factorial(5%)
+ 2021-04-24 23:17:12,652 - DEBUG - i is 1, total is 1
+ 2021-04-24 23:17:12,653 - DEBUG - i is 2, total is 2
+ 2021-04-24 23:17:12,653 - DEBUG - i is 3, total is 6
+ 2021-04-24 23:17:12,653 - DEBUG - i is 4, total is 24
+ 2021-04-24 23:17:12,653 - DEBUG - i is 5, total is 120
+ 2021-04-24 23:17:12,653 - DEBUG - End of factorial(5%)
+ 2021-04-24 23:17:12,653 - DEBUG - End of program
+ 2021-04-24 23:24:44,126 - DEBUG - start of program
+ 2021-04-24 23:26:37,334 - DEBUG - start of program

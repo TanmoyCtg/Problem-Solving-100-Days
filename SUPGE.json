@@ -1,0 +1,94 @@
+[
+    {
+        "id": "d9789918772f935b2d686f523d066a7b",
+        "originalName": "130010259_AC2_R44_20200101",
+        "type": "SUP",
+        "status": "document.deleted",
+        "legalStatus": "APPROVED",
+        "name": "130010259_SUP_R44_AC2",
+        "grid": {
+            "name": "R44",
+            "title": "GRAND EST"
+        },
+        "bbox": [
+            3.4212881,
+            47.6171589,
+            8.1598899,
+            50.1338684
+        ],
+        "documentSource": "UPLOAD",
+        "uploadDate": "2020-06-25T14:56:27+02:00",
+        "updateDate": "2021-01-19T14:33:35+01:00",
+        "fileIdentifier": "SUP-AC2-R44-130010259-20200101",
+        "legalControlStatus": 101
+    },
+    {
+        "id": "6a9013bdde6acfa632861aeb1a02942b",
+        "originalName": "130010259_AC2_R44_20210101",
+        "type": "SUP",
+        "status": "document.production",
+        "legalStatus": "APPROVED",
+        "name": "130010259_SUP_R44_AC2",
+        "grid": {
+            "name": "R44",
+            "title": "GRAND EST"
+        },
+        "bbox": [
+            3.4212881,
+            47.6171589,
+            8.1598899,
+            50.1338684
+        ],
+        "documentSource": "UPLOAD",
+        "uploadDate": "2021-01-18T16:37:01+01:00",
+        "updateDate": "2021-01-19T14:33:29+01:00",
+        "fileIdentifier": "SUP-AC2-R44-130010259-20210101",
+        "legalControlStatus": 101
+    },
+    {
+        "id": "efd51feaf35b12248966cb82f603e403",
+        "originalName": "130010259_PM2_R44_20210101",
+        "type": "SUP",
+        "status": "document.production",
+        "legalStatus": "APPROVED",
+        "name": "130010259_SUP_R44_PM2",
+        "grid": {
+            "name": "R44",
+            "title": "GRAND EST"
+        },
+        "bbox": [
+            3.6535762,
+            47.665021,
+            7.9509455,
+            49.907347
+        ],
+        "documentSource": "UPLOAD",
+        "uploadDate": "2021-01-28T09:52:31+01:00",
+        "updateDate": "2021-01-28T18:53:34+01:00",
+        "fileIdentifier": "SUP-PM2-R44-130010259-20210101",
+        "legalControlStatus": 101
+    },
+    {
+        "id": "2e1b6104fdc09c84077d54fd9e74a7a7",
+        "originalName": "444619258_I4_R44_20210211",
+        "type": "SUP",
+        "status": "document.pre_production",
+        "legalStatus": "APPROVED",
+        "name": "444619258_SUP_R44_I4",
+        "grid": {
+            "name": "R44",
+            "title": "GRAND EST"
+        },
+        "bbox": [
+            2.8698336,
+            47.3373246,
+            8.0881368,
+            50.3796449
+        ],
+        "documentSource": "UPLOAD",
+        "uploadDate": "2021-04-19T10:20:20+02:00",
+        "updateDate": "2021-04-19T14:46:21+02:00",
+        "fileIdentifier": "SUP-I4-R44-444619258-20210211",
+        "legalControlStatus": 100
+    }
+]
