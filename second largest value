@@ -1,0 +1,32 @@
+# Find the second largest value
+
+a = [1,2,3,4,5,6]
+
+max1 = 2
+
+max2 = 1
+
+for i in range(len(a)):
+    if a[i] > max1:
+        max2 = max1
+        max1 = a[i]
+    elif a[i] > max2 and a[i] < max1:
+        max2=a[i]
+
+print(max1)
+print(max2)
+
+'''
+# array input size 
+# arrary declare 
+# max1 and max2 to store first and second largest 
+# loop through all elements O to n-1, for i in range(n)
+# inside loop, check if current array element is > max1, 
+then max1 is the second largest value max2 = max1
+and current element highest value max1 = a[i]
+
+#  elif current array element is > max2 but less than max1
+then current array element is second largest max2 = a[i]
+array[i] > max2 and array[i] < max1
+
+'''
